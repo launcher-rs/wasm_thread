@@ -1,13 +1,13 @@
 [package]
-name = "wasm_thread"
+name = "rgpui-wasm-thread"
 version = "0.3.3"
 authors = ["Jurgis Balciunas <chemicstry@gmail.com>"]
 edition = "2018"
-description = "An std thread replacement for wasm32 target"
+description = "An std thread replacement for wasm32 target (rgpui maintained fork)"
 license = "Apache-2.0 OR MIT"
-repository = "https://github.com/chemicstry/wasm_thread"
-homepage = "https://github.com/chemicstry/wasm_thread"
-documentation = "https://docs.rs/wasm_thread"
+repository = "https://github.com/launcher-rs/wasm_thread"
+homepage = "https://github.com/launcher-rs/wasm_thread"
+documentation = "https://docs.rs/rgpui-wasm-thread"
 keywords = ["thread", "wasm", "parallel", "concurrency"]
 categories = ["concurrency", "wasm"]
 readme = "README.md"
